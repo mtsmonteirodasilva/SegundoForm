@@ -1,0 +1,12 @@
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\bin\Debug\SegundoForm.exe.config
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\bin\Debug\SegundoForm.exe
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\bin\Debug\SegundoForm.pdb
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.csproj.AssemblyReference.cache
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.Form1.resources
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.Properties.Resources.resources
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.csproj.GenerateResource.cache
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.csproj.CoreCompileInputs.cache
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.exe
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.pdb
+C:\Users\2022102020080\source\repos\SegundoForm\SegundoForm\obj\Debug\SegundoForm.CadastroCliente.resources
